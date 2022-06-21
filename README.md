@@ -17,16 +17,16 @@ Hi, I am Ankit - a student and developer who loves to learn and build new things
 ### 🔨 My works
 
 #### 🎧 [Next-spotify](https://next-spotify-smoky.vercel.app/): <br>
-View all your playlists, albums and artists in this mini Spotify clone. A web app using NextJS, TailwindCSS for UI and next-auth for authenticating users through their Spotify account.
+View all your playlists, albums and artists in this Spotify clone. A web app using NextJS, TailwindCSS for UI and next-auth for authenticating users through their Spotify account.
 
 ####  📝 [Among-us](http://among-us-kappa.vercel.app/): <br>
-Open questions and discuss with your developers to resolve the question. A full-stack discussion application built using Next.JS, GraphQL, Typescript and MongoDB with user authentication.
+Open questions and discuss with other developers to resolve the question. A full-stack discussion application built using Next.JS, GraphQL, Typescript and MongoDB with user authentication.
 
 #### 👩‍💻 [Nextpen](http://next-pen.vercel.app/): <br>
-Write and compile your code without installing any compiler. A code editor web app built using React and TailwindCSS.
+Write and run your code without installing any compiler in your system. A code editor web app built using React and TailwindCSS.
 
 #### 😆 [Meme Generator](https://react-meme-generator-12c45.web.app/): <br>
-Create memes from templates or your images or an external image link. A React app built using TypeScript and TailwindCSS, and deployed on Firebase.
+Create memes from templates or your images or image links. A React app built using TypeScript and TailwindCSS, and deployed on Firebase.
 
 #### 📸 [InstaClone](https://github.com/ankitk26/Insta-Clone): <br>
 View and upload image posts to share your experience with your friends. A Flutter app built along with Firebase.
