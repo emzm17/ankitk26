@@ -1,5 +1,6 @@
 
-## Dibya Ranjan Barwa
+## Hi 👋, I'm Dibya Ranjan
+
 Welcome to my profile <br/>
 Hi, I am Dibya - a Student, Android developer and problem solver who loves to learn and build new things.
 
