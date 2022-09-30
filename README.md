@@ -18,9 +18,10 @@ Hi, I am Dibya - a Student, Android developer and problem solver who loves to le
 ![](https://github-readme-stats.vercel.app/api?username=emzm17&theme=react&hide_border=false&include_all_commits=false&count_private=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emzm17&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 👩‍ Coding Profile
+[![Codechef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/preacher17) [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/go_jeff/) 
 
 ### 🔨 My works
-
 ####  [MDukan](https://github.com/emzm17/MDukan): <br>
 An Android application that allows users to buy cheap items at low prices and sell them at their leisure with the click of a button and with a payment gateway.
 
@@ -34,6 +35,6 @@ Discover trending news and articles all over the world from various popular news
 
 
 ### 🔭 Where to find me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dibya172000@gmail.com) [![Codechef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/preacher17) [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/go_jeff/) [![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15633608/dibya-ranjan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dibyaranjan-barwa-8b7b90166/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dibya172000@gmail.com) [![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15633608/dibya-ranjan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dibyaranjan-barwa-8b7b90166/) 
 
 
