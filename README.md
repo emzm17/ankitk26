@@ -22,11 +22,11 @@ Hi, I am Dibya - a Student, Android developer and problem solver who loves to le
 [![Codechef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/preacher17) [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/go_jeff/) 
 
 ### 🔨 My works
-####  [MDukan](https://github.com/emzm17/MDukan): <br>
-An Android application that allows users to buy cheap items at low prices and sell them at their leisure with the click of a button and with a payment gateway.
+####  [splitpay-backend](https://github.com/emzm17/splitpay-backend): <br>
+Splitpay is a collaborative finance management application designed to streamline the process of splitting and settling expenses among a group of users. The platform allows users to create groups, add expenses, and keep track of who owes whom.
 
-####  [Vault](https://github.com/emzm17/Vault): <br>
-There is an Android app that allows you to store all of your login and card information in one place. The app works totally offline with a master pin.
+####  [Mdukan](https://github.com/emzm17/MDukan): <br>
+An Android application that allows users to buy cheap items at low prices and sell them at their leisure with the click of a button and with a payment gateway
 
 ####  [News17](https://github.com/emzm17/News17): <br>
 Discover trending news and articles all over the world from various popular news sources.
